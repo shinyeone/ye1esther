@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=f9c1bb&height=70&section=header&text=Yewon%20Shin&fontColor=505050&fontSize=30&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=slice&color=f9c1bb&height=70&section=header&text=예원%20Esther&fontColor=505050&fontSize=30&animation=fadeIn)
 
  <a href="https://www.instagram.com/ye1_esther/" target="_blank"><img src="https://img.shields.io/badge/ye1__esther-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
  <a href="yshin31@jh.edu" target="_blank"><img src="https://img.shields.io/badge/yshin31@jhu.edu-0078D4?style=flat-square&logo=MicrosoftOutlook&logoColor=white"/></a>
