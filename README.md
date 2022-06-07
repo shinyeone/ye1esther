@@ -8,8 +8,8 @@
 
 👋 Hi there!
 
-:rocket: I'm CS student @ Johns Hopikins University, with background in financial economics and business.  
-:sparkling_heart: My passion is to become a software developer and a professional in technology product management. 
+:rocket: I'm CS student @ Johns Hopikins University, with background in finance and entrepreneurship.  
+My passion is to become a software developer and a professional in technology product management. 
 
 
 # Skills 👩🏻‍💻
@@ -27,3 +27,4 @@
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&amp;logo=HTML5&amp;logoColor=white" style="max-width: 100%;"> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&amp;logo=PHP&amp;logoColor=white" style="max-width: 100%;"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=Python&amp;logoColor=white" style="max-width: 100%;"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=JavaScript&amp;logoColor=white" style="max-width: 100%;"> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&amp;logo=R&amp;logoColor=white" style="max-width: 100%;">
 ##### Tools/Platforms
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=Docker&amp;logoColor=white" style="max-width: 100%;"> 
+
