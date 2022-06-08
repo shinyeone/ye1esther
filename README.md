@@ -1,3 +1,5 @@
+<div align="center">
+  
 <img src="https://capsule-render.vercel.app/api?type=slice&amp;color=auto&amp;height=200&amp;section=header&amp;text=Hello%20there!&amp;desc=I'm%20예원 %20Esther&amp;fontSize=50&amp;rotate=14&amp;fontAlignY=25&amp;fontAlign=75&amp;descAlignY=43&amp;descAlign=87&amp;&amp;animation=twinkling" style="max-width: 100%; "/>
 
 
@@ -28,3 +30,4 @@ My passion is to become a software developer and a professional in technology pr
 ##### Tools/Platforms
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=Docker&amp;logoColor=white" style="max-width: 100%;"> 
 
+ </div>
