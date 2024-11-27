@@ -9,8 +9,8 @@
 
 👋 Hi there!
 
-:rocket: I'm CS student @ Johns Hopikins University, with background in finance and entrepreneurship.  
-My passion is to become a software developer and a professional in technology product management. 
+:rocket: I'm CS graduate @ Johns Hopikins University, with background in finance and entrepreneurship.  
+My passion is to bridge creativity and technology, leveraging my technical expertise and creative insight to develop impactful content, foster meaningful connections, and drive innovative solutions in fast-paced, dynamic environments.
 
 
 # Skills 👩🏻‍💻
